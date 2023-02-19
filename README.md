@@ -1,4 +1,4 @@
-# setup
+# Setup
 Download or clone repository
 
 
