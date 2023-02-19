@@ -1,4 +1,4 @@
-setup---
+# setup---
 Download or clone repository
 run npm install
 run npm start
